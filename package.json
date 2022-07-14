@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "homepage": "https://matheusfr8.github.io/Ecommerce-Angular/",
   },
   "private": true,
   "dependencies": {
